@@ -1,8 +1,8 @@
 class Synapse < Formula
   desc "Personal search and work-tidying app for macOS (Korean UI)"
   homepage "https://github.com/dding94/synapse"
-  url "https://github.com/dding94/synapse/releases/download/v0.9.0/synapse-0.9.0.tar.gz"
-  sha256 "630a7ac421157a0ba289ae07ef667729ca2ecd5c108c3469108765663e222989"
+  url "https://github.com/dding94/synapse/releases/download/v0.10.0/synapse-0.10.0.tar.gz"
+  sha256 "9ae11a49e806fbffd5b779309dbd04d1f697557810b51836347710b5742bc6da"
   license "MIT"
   head "https://github.com/dding94/synapse.git", branch: "main"
 
