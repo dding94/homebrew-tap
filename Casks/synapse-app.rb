@@ -1,6 +1,6 @@
 cask "synapse-app" do
-  version "0.10.0"
-  sha256 "2c89194c6c37c1ec143e56feb7fa5fda653837d1b94e26fdfec572201eb6eb87"
+  version "0.10.1"
+  sha256 "7112864a92ed63c70a52e6e50735521f1fd6e493bdfb2ffc6b6930db6e7e0d02"
 
   url "https://github.com/dding94/synapse-releases/releases/download/v#{version}/Synapse-#{version}.zip"
   name "Synapse"
